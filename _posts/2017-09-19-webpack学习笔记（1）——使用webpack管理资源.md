@@ -1,6 +1,6 @@
 ---
 layout: default
-title: git操作注意事项
+title: webpack学习笔记（1）——使用webpack管理资源
 comments: true
 ---
 

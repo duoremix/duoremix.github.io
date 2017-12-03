@@ -1,6 +1,6 @@
 ---
 layout: default
-title: git操作注意事项
+title: 关于在linux/mac下自定义命令alias并永久生效的经验
 comments: true
 ---
 

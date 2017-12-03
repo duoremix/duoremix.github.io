@@ -1,6 +1,6 @@
 ---
 layout: default
-title: git操作注意事项
+title: vue的render函数使用方法
 comments: true
 ---
 
