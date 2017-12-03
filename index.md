@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[### 测试](site.baseurl)
+[### 测试]({{site.baseurl}})
 
