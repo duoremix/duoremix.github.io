@@ -1,3 +1,9 @@
+---
+layout: default
+title: git操作注意事项
+comments: true
+---
+
 ## 关于在linux/mac下自定义命令alias并永久生效的经验
 
 用linux或者mac做开发的时候，总会遇到一些常用的但是比较长的指令，输入起来很耗费时间，这种情况下我们可以自己定义一个别名来代表这段命令，如：

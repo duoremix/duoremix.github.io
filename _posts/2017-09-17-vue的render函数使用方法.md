@@ -1,3 +1,9 @@
+---
+layout: default
+title: git操作注意事项
+comments: true
+---
+
 # vue的render函数使用方法
 
 ### 使用template的短板
