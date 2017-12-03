@@ -3,7 +3,6 @@ layout: default
 title: vue的render函数使用方法
 comments: true
 ---
-
 # vue的render函数使用方法
 
 ### 使用template的短板
